@@ -1,4 +1,6 @@
-include "monty.h"
+#include "monty.h"
+#include <stdio.h>
+#include <stdlib.h>
 
 int usage_error(void);
 int malloc_error(void);
